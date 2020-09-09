@@ -18,6 +18,15 @@
     height: auto;
 }
 
+.inlinePic{
+    width: 33%;
+    align-items: center;
+    height: auto;
+    border-radius: 25%;
+}
+.pics{
+    margin: 7%;
+}
 #about_me, #projects{    
     float: right;
     border-radius: 25%; 
